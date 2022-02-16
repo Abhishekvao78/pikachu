@@ -16,7 +16,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
 *Githublink (Setup)  :    https://github.com/ameer-kallumthodi/pikachu*
 
-*Audio commads :   https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*Audio commads :   https://github.com/ameer-kallumthodi/*
 
 *Sticker commads : https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
 
